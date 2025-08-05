@@ -1,0 +1,132 @@
+{
+  "A": {
+    "word": "Automobile",
+    "definition": "A self-propelled vehicle used for land transport.",
+    "history": "The Ford Model T, launched in 1908, revolutionized American transportation and mass production."
+  },
+  "B": {
+    "word": "Broadcast",
+    "definition": "The transmission of audio or video content to a dispersed audience.",
+    "history": "The first radio broadcast took place in 1906, with commercial stations emerging in the 1920s."
+  },
+  "C": {
+    "word": "Civil Rights",
+    "definition": "The rights of citizens to political and social freedom and equality.",
+    "history": "The American Civil Rights Movement peaked in the 1960s, led by figures like Martin Luther King Jr."
+  },
+  "D": {
+    "word": "Depression",
+    "definition": "A severe and prolonged downturn in economic activity.",
+    "history": "The Great Depression began with the 1929 stock market crash and lasted through the 1930s."
+  },
+  "E": {
+    "word": "E-commerce",
+    "definition": "Commercial transactions conducted electronically on the internet.",
+    "history": "Online shopping gained traction in the 1990s with websites like Amazon and eBay."
+  },
+  "F": {
+    "word": "Feminism",
+    "definition": "The advocacy of women's rights on the basis of equality of the sexes.",
+    "history": "Second-wave feminism in the 1960s fought for workplace rights and reproductive freedom."
+  },
+  "G": {
+    "word": "Globalization",
+    "definition": "The process by which businesses and cultures expand internationally.",
+    "history": "The post-Cold War era saw an acceleration of globalization through trade and digital networks."
+  },
+  "H": {
+    "word": "Holocaust",
+    "definition": "The genocide of European Jews and others by Nazi Germany during WWII.",
+    "history": "From 1941 to 1945, over six million Jews were murdered in one of history's greatest atrocities."
+  },
+  "I": {
+    "word": "Internet",
+    "definition": "A global system of interconnected computer networks.",
+    "history": "The internet became widely accessible in the 1990s, transforming communication and commerce."
+  },
+  "J": {
+    "word": "Jazz",
+    "definition": "A genre of music with roots in African American communities.",
+    "history": "Jazz emerged in the early 20th century and influenced global music and culture."
+  },
+  "K": {
+    "word": "Korean War",
+    "definition": "A war between North and South Korea from 1950 to 1953.",
+    "history": "The war ended in an armistice, not a peace treaty, and the Korean peninsula remains divided."
+  },
+  "L": {
+    "word": "LGBTQ+",
+    "definition": "An acronym for lesbian, gay, bisexual, transgender, queer/questioning, and others.",
+    "history": "The 1969 Stonewall Riots were a catalyst for LGBTQ+ rights activism in the United States."
+  },
+  "M": {
+    "word": "Moon Landing",
+    "definition": "The event of humans landing on the moon.",
+    "history": "In 1969, Apollo 11 made history as the first manned moon landing, with Neil Armstrong and Buzz Aldrin."
+  },
+  "N": {
+    "word": "Nuclear",
+    "definition": "Relating to the energy released during nuclear fission or fusion.",
+    "history": "The atomic bomb was first used in WWII, marking the start of the nuclear age."
+  },
+  "O": {
+    "word": "Occupy",
+    "definition": "To take up space or control, often in protest.",
+    "history": "The Occupy Wall Street movement in 2011 protested economic inequality and corporate influence."
+  },
+  "P": {
+    "word": "Pandemic",
+    "definition": "A global outbreak of a disease.",
+    "history": "The COVID-19 pandemic, declared in 2020, significantly altered global health, travel, and economics."
+  },
+  "Q": {
+    "word": "Quarantine",
+    "definition": "A period of isolation to prevent disease spread.",
+    "history": "Mass quarantines were enforced worldwide during the COVID-19 pandemic to limit transmission."
+  },
+  "R": {
+    "word": "Riot",
+    "definition": "A violent disturbance by a crowd.",
+    "history": "The 1992 Los Angeles riots followed the acquittal of police officers involved in the beating of Rodney King."
+  },
+  "S": {
+    "word": "Space Shuttle",
+    "definition": "A reusable spacecraft for transporting astronauts and cargo.",
+    "history": "NASA’s first space shuttle launch occurred in 1981; the program ended in 2011."
+  },
+  "T": {
+    "word": "Television",
+    "definition": "A system for transmitting visual images and sound.",
+    "history": "TV became a household fixture in the 1950s, reshaping news, entertainment, and culture."
+  },
+  "U": {
+    "word": "Union",
+    "definition": "An organized association of workers for collective bargaining.",
+    "history": "The labor union movement gained traction in the early 20th century, especially after the New Deal."
+  },
+  "V": {
+    "word": "Vietnam War",
+    "definition": "A conflict in Vietnam, Laos, and Cambodia from 1955 to 1975.",
+    "history": "U.S. involvement escalated in the 1960s; the war ended with North Vietnamese victory."
+  },
+  "W": {
+    "word": "Watergate",
+    "definition": "A political scandal that led to U.S. President Nixon’s resignation.",
+    "history": "The 1972 break-in and cover-up unraveled over two years, revealing abuses of power."
+  },
+  "X": {
+    "word": "X-ray",
+    "definition": "A form of electromagnetic radiation used in imaging.",
+    "history": "Medical use of X-rays expanded dramatically throughout the 20th century."
+  },
+  "Y": {
+    "word": "Youth Culture",
+    "definition": "The behaviors and norms of young people, often distinct from mainstream society.",
+    "history": "Youth culture exploded post-WWII, with each generation reshaping fashion, music, and values."
+  },
+  "Z": {
+    "word": "Zoom",
+    "definition": "A video communication platform.",
+    "history": "Zoom usage skyrocketed during the COVID-19 pandemic, symbolizing remote work and digital life."
+  }
+}
